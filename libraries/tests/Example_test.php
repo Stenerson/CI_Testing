@@ -36,7 +36,7 @@ class Address_tests extends Base_test
     	parent::__construct();
 
     	// Load the library
-    	$this->ci->load->libarary('example');
+    	$this->ci->load->library('example');
 	}
 	
 	/**
